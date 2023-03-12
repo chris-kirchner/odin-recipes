@@ -1,0 +1,33 @@
+* {
+  font-family: Tahoma, Arial, sans-serif;
+  background-color: rgb(207, 203, 187);
+  text-decoration: none;
+}
+
+h1 {
+  font-style: italic;
+  font-family: "Times New Roman", serif;
+  font-size: 40pt;
+  font-weight: bold;
+  color: rgb(211, 56, 56);
+  text-shadow: 0px 2px rgb(110, 4, 4);
+}
+
+.katsu {
+  background-color: darkred;
+  color: orange;
+}
+
+.baked {
+  background-color: darkorange;
+  color: darkred;
+}
+
+.soup {
+  background-color: beige;
+  color: rgb(173, 142, 100);
+}
+
+.size24pt {
+  font-size: 24pt;
+}
